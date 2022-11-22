@@ -1,14 +1,19 @@
-# 🏅 Professional Survey
+# 👩‍💻 Professional Survey
 
 ## 📚 About Data
-Historical data on the modern Olympic Games, from Athens 1896 to Rio 2016. Each row corresponds to an individual athlete competing in an individual event, including the athlete's name, sex, age, height, weight, country, and medal, and the event's name, sport, games, year, and city.
+This dataset is a survey of 631 people on data professionals.
+In each line of the data set we have individual answers about the profession, career, salary, industry, favorite programming language, among others.
 
 ### ✏️ Data Set:
-120 Years of Olympic History from [Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/120-years-of-olympic-history)
+[Professional Survey](https://github.com/giovannilp/Professional-Survey/blob/main/Professional%20Survey.xlsx)
 
 ##  📌 Business Task
-"As a data analyst working at a news company you are asked to visualize data that will help readers understand how countries have performed historically in the summer Olympic Games. You also know that there is an interest in details about the competitors, so if you find anything interesting then don’t hesitate to bring that in also. The main task is still to show historical performance for different countries, with the possibility to select your own country."
+Clean and Analyze dataset about data professionals using Power BI, concluding with a visualization
 
-### 📍 View [SQL scripts](https://github.com/giovannilp/Olympic-Games-SQL-PowerBI/blob/main/Olympic.md)
+### 📍 Tools:
+Power Query
+- Removed rows with missing values
+- Cleaning and transforming data in the power bi power query, standardizing responses and creating new columns
 
 ## 📊 Visualization
+![image](https://user-images.githubusercontent.com/87883824/203411382-308e4319-3652-484c-b28d-c31227249259.png)
